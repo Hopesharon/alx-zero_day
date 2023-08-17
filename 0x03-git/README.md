@@ -1,5 +1,6 @@
 **1. Repo-session**
 Created a new directory called 0x03-git in the alx-zero_day repo.
+
  
 **2. Coding fury road**
 * Created these directories at the root of your project: bash, c, js
@@ -9,6 +10,7 @@ Created a new directory called 0x03-git in the alx-zero_day repo.
     * js/index.js
 * Created a file bash/alx with these two lines inside: #!/bin/bash and echo "ALX"
 * Created a file bash/school with these two lines inside: #!/bin/bash and echo "School"
+
  
 **3. Collaboration is the base of a company**
 created a branch update_script and in this branch:
