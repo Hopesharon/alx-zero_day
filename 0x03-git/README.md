@@ -1,3 +1,8 @@
+#0x03. Git
+In this project I laernt how to tackle the below projects.
+
+
+
 **1. Repo-session**
 Created a new directory called 0x03-git in the alx-zero_day repo.
 
