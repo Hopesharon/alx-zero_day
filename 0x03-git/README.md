@@ -32,7 +32,7 @@ Got all changes of the main branch locally.
 * Create a new file up_to_date at the root of your directory and in it, write the git command line used
 
 
-### 3. HAAA what did you do???
+### 5. HAAA what did you do???
 Merged the branch update_script to main
 Resolved conflicts by using the version of the branch update_script, and push the result to the origin.
 
